@@ -1,1 +1,3 @@
 # Hotel-Reservations-Portfolio-Project
+
+This project above is to show what factors go into a customer needing to cancel a hotel reservation. In this project there was multiple theories into what causes people to cancel their stay including children, booking lead time, avergae price, and many others that could contribute to them needing to cancel their reservation. Every person is different and has unexpected challenges arise, this project shows the trends that can contirubte to better business decisions when setting up cancellation policies with hotels to help with loss of revuene when these issues come up.
